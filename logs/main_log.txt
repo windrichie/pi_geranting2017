@@ -17,3 +17,380 @@
 2017-02-21 22:36:48,028 - __main__ - INFO - 200, OK
 2017-02-21 22:41:45,841 - __main__ - INFO - sending data to dataspark server
 2017-02-21 22:41:46,355 - __main__ - INFO - 200, OK
+2017-02-21 22:46:45,931 - __main__ - INFO - sending data to dataspark server
+2017-02-21 22:46:47,141 - __main__ - INFO - 200, OK
+2017-02-21 22:51:40,119 - __main__ - ERROR - arduino is not connected
+2017-02-21 22:51:40,121 - __main__ - INFO - sending data to dataspark server
+2017-02-21 22:51:40,617 - __main__ - INFO - 200, OK
+2017-02-21 22:51:41,986 - __main__ - INFO - sending data to dataspark server
+2017-02-21 22:51:42,514 - __main__ - INFO - 200, OK
+2017-02-21 23:02:40,178 - __main__ - INFO - bootup
+2017-02-21 23:02:41,989 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:02:42,499 - __main__ - INFO - 200, OK
+2017-02-21 23:02:54,418 - __main__ - INFO - bootup
+2017-02-21 23:02:54,422 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:04:56,741 - __main__ - INFO - bootup
+2017-02-21 23:07:19,252 - __main__ - INFO - bootup
+2017-02-21 23:07:20,143 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:07:21,345 - __main__ - INFO - 200, OK
+2017-02-21 23:07:21,405 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:07:32,040 - __main__ - INFO - bootup
+2017-02-21 23:07:32,495 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:07:34,029 - __main__ - INFO - 200, OK
+2017-02-21 23:08:12,056 - __main__ - INFO - bootup
+2017-02-21 23:08:28,096 - __main__ - ERROR - arduino is not connected
+2017-02-21 23:09:58,457 - __main__ - INFO - bootup
+2017-02-21 23:11:01,986 - __main__ - INFO - bootup
+2017-02-21 23:13:29,255 - __main__ - INFO - bootup
+2017-02-21 23:13:36,674 - __main__ - INFO - bootup
+2017-02-21 23:13:45,311 - __main__ - INFO - bootup
+2017-02-21 23:13:45,659 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:13:48,137 - __main__ - INFO - 200, OK
+2017-02-21 23:13:48,140 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:28,580 - __main__ - INFO - bootup
+2017-02-21 23:14:28,583 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:34,077 - __main__ - INFO - 200, OK
+2017-02-21 23:14:34,080 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:34,585 - __main__ - INFO - 200, OK
+2017-02-21 23:14:34,587 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:38,832 - __main__ - INFO - 200, OK
+2017-02-21 23:14:38,834 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:39,326 - __main__ - INFO - 200, OK
+2017-02-21 23:14:39,328 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:39,824 - __main__ - INFO - 200, OK
+2017-02-21 23:14:39,826 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:45,634 - __main__ - INFO - 200, OK
+2017-02-21 23:14:45,636 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:49,867 - __main__ - INFO - 200, OK
+2017-02-21 23:14:49,869 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:50,811 - __main__ - INFO - 200, OK
+2017-02-21 23:14:50,819 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:52,479 - __main__ - INFO - 200, OK
+2017-02-21 23:14:52,482 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:55,280 - __main__ - INFO - 200, OK
+2017-02-21 23:14:55,282 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:14:57,809 - __main__ - INFO - 200, OK
+2017-02-21 23:14:57,811 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:00,030 - __main__ - INFO - 200, OK
+2017-02-21 23:15:00,032 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:03,175 - __main__ - INFO - 200, OK
+2017-02-21 23:15:03,184 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:06,469 - __main__ - INFO - 200, OK
+2017-02-21 23:15:06,471 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:08,941 - __main__ - INFO - 200, OK
+2017-02-21 23:15:08,943 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:11,898 - __main__ - INFO - 200, OK
+2017-02-21 23:15:11,901 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:14,248 - __main__ - INFO - 200, OK
+2017-02-21 23:15:14,251 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:18,156 - __main__ - INFO - 200, OK
+2017-02-21 23:15:18,159 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:19,524 - __main__ - INFO - 200, OK
+2017-02-21 23:15:19,526 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:20,981 - __main__ - INFO - 200, OK
+2017-02-21 23:15:20,984 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:25,366 - __main__ - INFO - 200, OK
+2017-02-21 23:15:25,374 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:28,690 - __main__ - INFO - 200, OK
+2017-02-21 23:15:28,692 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:31,882 - __main__ - INFO - 200, OK
+2017-02-21 23:15:31,884 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:39,959 - __main__ - INFO - 200, OK
+2017-02-21 23:15:39,962 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:40,828 - __main__ - INFO - 200, OK
+2017-02-21 23:15:40,831 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:47,152 - __main__ - INFO - 200, OK
+2017-02-21 23:15:47,155 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:50,969 - __main__ - INFO - 200, OK
+2017-02-21 23:15:50,971 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:54,534 - __main__ - INFO - 200, OK
+2017-02-21 23:15:54,536 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:15:58,184 - __main__ - INFO - 200, OK
+2017-02-21 23:15:58,186 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:02,876 - __main__ - INFO - 200, OK
+2017-02-21 23:16:02,879 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:03,372 - __main__ - INFO - 200, OK
+2017-02-21 23:16:03,375 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:03,868 - __main__ - INFO - 200, OK
+2017-02-21 23:16:03,870 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:04,432 - __main__ - INFO - 200, OK
+2017-02-21 23:16:04,434 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:07,838 - __main__ - INFO - 200, OK
+2017-02-21 23:16:07,840 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:11,007 - __main__ - INFO - 200, OK
+2017-02-21 23:16:11,009 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:11,507 - __main__ - INFO - 200, OK
+2017-02-21 23:16:11,509 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:15,036 - __main__ - INFO - 200, OK
+2017-02-21 23:16:15,038 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:16,444 - __main__ - INFO - 200, OK
+2017-02-21 23:16:16,447 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:20,665 - __main__ - INFO - 200, OK
+2017-02-21 23:16:20,667 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:22,645 - __main__ - INFO - 200, OK
+2017-02-21 23:16:22,648 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:27,197 - __main__ - INFO - 200, OK
+2017-02-21 23:16:27,199 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:28,549 - __main__ - INFO - 200, OK
+2017-02-21 23:16:28,552 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:32,208 - __main__ - INFO - 200, OK
+2017-02-21 23:16:32,211 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:33,656 - __main__ - INFO - 200, OK
+2017-02-21 23:16:33,659 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:34,838 - __main__ - INFO - 200, OK
+2017-02-21 23:16:34,840 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:36,325 - __main__ - INFO - 200, OK
+2017-02-21 23:16:36,328 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:39,405 - __main__ - INFO - 200, OK
+2017-02-21 23:16:39,408 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:43,536 - __main__ - INFO - 200, OK
+2017-02-21 23:16:43,539 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:50,330 - __main__ - INFO - 200, OK
+2017-02-21 23:16:50,333 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:16:56,203 - __main__ - INFO - 200, OK
+2017-02-21 23:16:56,206 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:17:01,174 - __main__ - INFO - 200, OK
+2017-02-21 23:17:01,177 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:17:10,363 - __main__ - INFO - 200, OK
+2017-02-21 23:17:10,366 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:17:10,878 - __main__ - INFO - 200, OK
+2017-02-21 23:17:10,880 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:17:11,387 - __main__ - INFO - 200, OK
+2017-02-21 23:17:11,390 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:17:11,888 - __main__ - INFO - 200, OK
+2017-02-21 23:17:11,891 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:17:12,385 - __main__ - INFO - 200, OK
+2017-02-21 23:17:12,388 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:17:12,882 - __main__ - INFO - 200, OK
+2017-02-21 23:17:12,886 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:17:13,390 - __main__ - INFO - 200, OK
+2017-02-21 23:17:13,846 - __main__ - ERROR - arduino is not connected
+2017-02-21 23:17:13,846 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:17:14,339 - __main__ - INFO - 200, OK
+2017-02-21 23:19:21,499 - __main__ - INFO - bootup
+2017-02-21 23:19:25,312 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:19:25,798 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:19:29,514 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:19:29,997 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:19:33,713 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:19:34,205 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:19:37,915 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:19:38,395 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:19:42,117 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:19:45,374 - __main__ - INFO - 200, OK
+2017-02-21 23:19:48,420 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:19:52,244 - __main__ - INFO - 200, OK
+2017-02-21 23:19:54,724 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:20:00,814 - __main__ - INFO - 502, Bad Gateway
+2017-02-21 23:20:03,127 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:20:03,608 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:20:07,326 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:20:10,918 - __main__ - INFO - 200, OK
+2017-02-21 23:20:13,630 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:20:17,251 - __main__ - INFO - 200, OK
+2017-02-21 23:20:19,933 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:20:23,451 - __main__ - INFO - 200, OK
+2017-02-21 23:20:26,237 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:20:30,541 - __main__ - INFO - 200, OK
+2017-02-21 23:20:32,546 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:20:36,822 - __main__ - INFO - 200, OK
+2017-02-21 23:20:38,839 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:20:42,539 - __main__ - INFO - 200, OK
+2017-02-21 23:20:45,143 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:20:47,972 - __main__ - INFO - 200, OK
+2017-02-21 23:20:51,447 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:20:57,032 - __main__ - INFO - bootup
+2017-02-21 23:20:59,850 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:03,789 - __main__ - INFO - 200, OK
+2017-02-21 23:21:06,154 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:08,952 - __main__ - INFO - 200, OK
+2017-02-21 23:21:12,457 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:20,568 - __main__ - INFO - bootup
+2017-02-21 23:21:22,959 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:25,442 - __main__ - INFO - 200, OK
+2017-02-21 23:21:29,263 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:31,006 - __main__ - INFO - 200, OK
+2017-02-21 23:21:33,465 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:34,783 - __main__ - INFO - 200, OK
+2017-02-21 23:21:37,663 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:39,319 - __main__ - INFO - 200, OK
+2017-02-21 23:21:41,866 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:43,281 - __main__ - INFO - 200, OK
+2017-02-21 23:21:46,067 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:47,832 - __main__ - INFO - 200, OK
+2017-02-21 23:21:50,270 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:51,762 - __main__ - INFO - 200, OK
+2017-02-21 23:21:54,470 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:55,846 - __main__ - INFO - 200, OK
+2017-02-21 23:21:58,675 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:21:59,882 - __main__ - INFO - 200, OK
+2017-02-21 23:22:02,877 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:22:03,373 - __main__ - INFO - 200, OK
+2017-02-21 23:22:07,077 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:22:07,734 - __main__ - INFO - 200, OK
+2017-02-21 23:22:11,276 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:22:12,651 - __main__ - INFO - 200, OK
+2017-02-21 23:22:15,479 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:22:18,960 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:23:04,104 - __main__ - INFO - bootup
+2017-02-21 23:23:08,002 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:23:09,600 - __main__ - INFO - 200, OK
+2017-02-21 23:23:12,201 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:23:13,304 - __main__ - INFO - 200, OK
+2017-02-21 23:23:16,403 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:23:17,897 - __main__ - INFO - 200, OK
+2017-02-21 23:23:20,606 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:23:22,834 - __main__ - INFO - bootup
+2017-02-21 23:23:26,910 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:23:31,073 - __main__ - INFO - 200, OK
+2017-02-21 23:23:33,214 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:23:33,725 - __main__ - INFO - 200, OK
+2017-02-21 23:23:37,416 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:23:45,064 - __main__ - INFO - 200, OK
+2017-02-21 23:23:47,920 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:23:51,165 - __main__ - INFO - 200, OK
+2017-02-21 23:23:54,225 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:23:54,717 - __main__ - INFO - 200, OK
+2017-02-21 23:23:58,422 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:23:58,916 - __main__ - INFO - 200, OK
+2017-02-21 23:24:02,625 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:09,766 - __main__ - INFO - 200, OK
+2017-02-21 23:24:16,883 - __main__ - INFO - bootup
+2017-02-21 23:24:16,886 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:33,564 - __main__ - INFO - 200, OK
+2017-02-21 23:24:33,566 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:34,047 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:34,049 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:34,541 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:34,544 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:35,033 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:35,035 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:35,516 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:35,518 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:35,999 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:36,001 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:36,483 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:36,485 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:36,965 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:36,968 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:37,448 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:37,450 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:37,935 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:37,937 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:38,417 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:38,419 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:38,900 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:38,902 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:39,382 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:39,384 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:39,864 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:39,867 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:40,347 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:40,349 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:40,829 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:40,831 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:41,311 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:41,313 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:41,793 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:41,796 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:42,275 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:42,278 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:42,758 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:42,761 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:43,242 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:43,244 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:43,725 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:43,737 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:44,217 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:44,219 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:44,699 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:24:44,701 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:47,620 - __main__ - INFO - 200, OK
+2017-02-21 23:24:47,622 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:48,334 - __main__ - INFO - 200, OK
+2017-02-21 23:24:48,336 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:50,641 - __main__ - INFO - 200, OK
+2017-02-21 23:24:50,643 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:52,953 - __main__ - INFO - 200, OK
+2017-02-21 23:24:52,955 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:56,157 - __main__ - INFO - 200, OK
+2017-02-21 23:24:56,160 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:24:58,574 - __main__ - INFO - 200, OK
+2017-02-21 23:24:58,577 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:00,925 - __main__ - INFO - 200, OK
+2017-02-21 23:25:00,928 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:03,295 - __main__ - INFO - 200, OK
+2017-02-21 23:25:03,297 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:05,588 - __main__ - INFO - 200, OK
+2017-02-21 23:25:05,590 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:07,469 - __main__ - INFO - 200, OK
+2017-02-21 23:25:07,471 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:09,139 - __main__ - INFO - 200, OK
+2017-02-21 23:25:09,559 - __main__ - ERROR - arduino is not connected
+2017-02-21 23:25:09,560 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:13,499 - __main__ - INFO - 200, OK
+2017-02-21 23:25:13,501 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:13,997 - __main__ - INFO - 200, OK
+2017-02-21 23:25:13,999 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:15,395 - __main__ - INFO - 200, OK
+2017-02-21 23:25:15,397 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:16,990 - __main__ - INFO - 200, OK
+2017-02-21 23:25:16,993 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:17,615 - __main__ - INFO - 200, OK
+2017-02-21 23:25:17,618 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:18,920 - __main__ - INFO - 200, OK
+2017-02-21 23:25:18,922 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:19,433 - __main__ - INFO - 200, OK
+2017-02-21 23:25:19,435 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:21,067 - __main__ - INFO - 200, OK
+2017-02-21 23:25:21,731 - __main__ - ERROR - arduino is not connected
+2017-02-21 23:25:21,732 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:24,076 - __main__ - INFO - 200, OK
+2017-02-21 23:25:24,089 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:24,582 - __main__ - INFO - 200, OK
+2017-02-21 23:25:25,898 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:26,392 - __main__ - INFO - 200, OK
+2017-02-21 23:25:26,995 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:28,966 - __main__ - INFO - 200, OK
+2017-02-21 23:25:28,968 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:29,464 - __main__ - INFO - 200, OK
+2017-02-21 23:25:29,467 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:32,336 - __main__ - INFO - 200, OK
+2017-02-21 23:25:32,338 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:34,816 - __main__ - INFO - 200, OK
+2017-02-21 23:25:34,824 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:37,471 - __main__ - INFO - 200, OK
+2017-02-21 23:25:37,473 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:40,458 - __main__ - INFO - 200, OK
+2017-02-21 23:25:40,461 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:43,468 - __main__ - INFO - 200, OK
+2017-02-21 23:25:43,470 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:43,963 - __main__ - INFO - 200, OK
+2017-02-21 23:25:43,965 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:44,459 - __main__ - INFO - 200, OK
+2017-02-21 23:25:44,461 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:45,457 - __main__ - WARNING - unknown server response
+2017-02-21 23:25:45,466 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:48,953 - __main__ - INFO - 503, Service Unavailable
+2017-02-21 23:25:48,955 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:49,484 - __main__ - INFO - 200, OK
+2017-02-21 23:25:49,487 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:55,313 - __main__ - INFO - 200, OK
+2017-02-21 23:25:55,315 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:56,177 - __main__ - INFO - 200, OK
+2017-02-21 23:25:56,180 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:57,693 - __main__ - INFO - 200, OK
+2017-02-21 23:25:57,695 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:58,192 - __main__ - INFO - 200, OK
+2017-02-21 23:25:58,195 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:58,992 - __main__ - INFO - 200, OK
+2017-02-21 23:25:58,995 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:25:59,648 - __main__ - INFO - 200, OK
+2017-02-21 23:25:59,651 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:26:00,172 - __main__ - INFO - 200, OK
+2017-02-21 23:26:00,175 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:26:00,676 - __main__ - INFO - 200, OK
+2017-02-21 23:26:00,679 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:26:01,488 - __main__ - INFO - 200, OK
+2017-02-21 23:26:01,490 - __main__ - INFO - sending data to dataspark server
+2017-02-21 23:26:01,994 - __main__ - INFO - 200, OK

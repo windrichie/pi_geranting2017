@@ -23,7 +23,7 @@ from serial.tools import list_ports
 server = "data.sparkfun.com" # base URL of your feed
 publicKey = "DJ4Mgggn7KSpojdygvVp" # public key, everyone can see this
 privateKey = "P4rokkk6WzUgzYpX9AGg"  # private key, only you should know
-fields = ["volt"] # Your feed's data fields
+fields = ["volt", "amps"] # Your feed's data fields
 
 ### output log
 logger = logging.getLogger(__name__)
@@ -87,14 +87,24 @@ if __name__ == "__main__":
                     # activate this once when arduino is not connected
                     if(arduino_on):                            
                             arduino_on = False
-                            data_raw = "arduino not connected"
+                            data_raw = "arduino not connected, arduino not connected"
                             logger.error("arduino is not connected")
                     
                 # if there's data, send to web server
                 if(data_raw.__len__() > 0):
-                    data = {}
-                    data[fields[0]] = data_raw
 
+                    try:
+                            # split string into Volt and Amp
+                            voltAmp = data_raw.split(",")
+
+                            data = {}
+                            data[fields[0]] = voltAmp[0].strip()
+                            data[fields[1]] = voltAmp[1].strip()
+                    except IndexError:
+                            data[fields[0]] = "missing data"
+                            data[fields[1]] = "missing data"                                
+                            
+                    # send data to web server
                     send2DataSpark(data)
 
                     #reset data_raw
