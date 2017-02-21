@@ -1,0 +1,4 @@
+in sudo nano /etc/udev/rules.d/99-acm-serial.rules
+
+SUBSYSTEM=="tty"  ATTRS{product}=="Arduino Uno" SYMLINK+="arduino_uno"
+
