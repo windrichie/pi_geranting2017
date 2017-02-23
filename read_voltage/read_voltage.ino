@@ -60,7 +60,7 @@ void loop() {
   peakAmp = 0;  
 
   // for debugging
-  delay(1000);
+  delay(3000);
   
   // pause for 5 minutes
   //delay(300000);
