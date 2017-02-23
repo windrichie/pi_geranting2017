@@ -12556,3 +12556,74 @@
 2017-02-23 22:05:04,930 - __main__ - ERROR - not connected to internet
 2017-02-23 22:05:08,029 - __main__ - INFO - sending data to dataspark server
 2017-02-23 22:05:08,031 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:11,130 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:11,131 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:14,231 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:14,233 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:17,332 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:17,334 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:20,436 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:20,439 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:23,536 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:23,538 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:26,637 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:26,639 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:29,738 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:29,740 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:32,839 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:32,841 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:35,939 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:35,942 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:39,040 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:39,043 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:42,141 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:42,143 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:45,245 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:45,248 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:48,346 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:48,349 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:51,447 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:51,449 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:54,548 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:54,550 - __main__ - ERROR - not connected to internet
+2017-02-23 22:05:57,649 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:05:57,651 - __main__ - ERROR - not connected to internet
+2017-02-23 22:06:00,749 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:00,752 - __main__ - ERROR - not connected to internet
+2017-02-23 22:06:03,850 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:03,853 - __main__ - ERROR - not connected to internet
+2017-02-23 22:06:06,954 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:06,957 - __main__ - ERROR - not connected to internet
+2017-02-23 22:06:10,054 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:10,057 - __main__ - ERROR - not connected to internet
+2017-02-23 22:06:13,155 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:13,158 - __main__ - ERROR - not connected to internet
+2017-02-23 22:06:16,256 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:16,259 - __main__ - ERROR - not connected to internet
+2017-02-23 22:06:19,357 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:26,549 - __main__ - INFO - 200, OK
+2017-02-23 22:06:26,551 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:27,014 - __main__ - INFO - 200, OK
+2017-02-23 22:06:27,017 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:31,416 - __main__ - INFO - 200, OK
+2017-02-23 22:06:31,418 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:33,044 - __main__ - INFO - 200, OK
+2017-02-23 22:06:33,046 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:34,224 - __main__ - INFO - 200, OK
+2017-02-23 22:06:34,865 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:36,196 - __main__ - INFO - 200, OK
+2017-02-23 22:06:37,965 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:40,645 - __main__ - INFO - 200, OK
+2017-02-23 22:06:41,066 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:43,511 - __main__ - INFO - 200, OK
+2017-02-23 22:06:44,165 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:06:46,615 - __main__ - INFO - 200, OK
+2017-02-23 22:06:47,266 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:08:27,398 - __main__ - INFO - bootup
+2017-02-23 22:08:29,217 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:08:29,221 - __main__ - ERROR - not connected to internet
+2017-02-23 22:08:32,318 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:08:32,319 - __main__ - ERROR - not connected to internet
+2017-02-23 22:08:35,419 - __main__ - INFO - sending data to dataspark server
+2017-02-23 22:08:35,420 - __main__ - ERROR - not connected to internet
+2017-02-23 22:08:38,519 - __main__ - INFO - sending data to dataspark server
