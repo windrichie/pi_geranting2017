@@ -56,3 +56,22 @@ iface wlan1 inet manual
 sudo nano /etc/crontab
 # added by edward for wifi reconnection every 15 minutes
 */1 *   * * *   root    /usr/local/bin/wifi_reconnect.sh
+
+----------------------------------
+practical steps: use android/iphone as router
+
+##
+how to ssh to device
+1. turn on router (iPhone / Samsung)
+2. wait until ubuntu and pi connect
+3. see pi's IP address
+4. SSH to pi
+5. voila!
+
+how to vnc
+1. SSH to pi
+2. activate vnc server in ssh
+"vncserver :1 -name piGeranting -depth 16 -geometry 1024x768"
+3. open ssh remmina / vnc client (192.168.43.5:1)
+4. insert password 81078670
+5. voila!
