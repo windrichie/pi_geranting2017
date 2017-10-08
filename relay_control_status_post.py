@@ -44,4 +44,4 @@ if __name__ == '__main__':
                 LED_ON = False
                 post_firebase()
             
-        time.sleep(60)
+        time.sleep(59)
