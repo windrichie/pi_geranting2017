@@ -1,0 +1,40 @@
+import datetime
+import time
+import serial
+#import requests
+#import json
+from firebase.firebase import FirebaseApplication, FirebaseAuthentication
+
+ser = serial.Serial('COM15', 9600, timeout=0)
+fixed_interval = 10
+
+if __name__ == '__main__':
+    SECRET = '2woGLBK6IxfOtDCM553cZshFZJAZxSHVd3mAcGRY'
+    DSN = 'https://jakartasmartpark.firebaseio.com/'
+    EMAIL = 'windrichie@gmail.com'
+    authentication = FirebaseAuthentication(SECRET,EMAIL, True, True)
+    firebase = FirebaseApplication(DSN, authentication)
+
+    while 1:
+        try:
+            data_raw = ser.readline()
+            
+            if(data_raw.__len__() > 0):
+
+                try:
+                    # split string into Volt and Amp
+                    Amps = data_raw.split(",")
+                            
+                    data = {'timestamp':datetime.datetime.now(),'Sensor1':Amps[0], 'Sensor2':Amps[1], 'Sensor3':Amps[2], 'Sensor4':Amps[3], 'Sensor5':Amps[4], 'Sensor6':Amps[5]}
+                    result = firebase.post('/measurements',data)
+                    print(data)
+                except IndexError:
+                    data = {'timestamp':datetime.datetime.now(),'Sensor1':'missing data', 'Sensor2':'missing data', 'Sensor3':'missing data', 'Sensor4':'missing data', 'Sensor5':'missing data', 'Sensor6':'missing data'}
+                    result = firebase.post('/measurements',data)
+                    print(data)
+            
+            #print ('Record inserted. Result Code = ' + str(result.status_code) + ',' + result.text)
+            #time.sleep(fixed_interval)
+        except IOError:
+            print('Error! Something went wrong.')
+        time.sleep(fixed_interval)
