@@ -1,0 +1,25 @@
+
+---------------------------------- is filenya ini:
+systemd service configuration
+
+sudo nano /lib/systemd/system/alvaenergi_relay.service
+
+--
+[Unit]
+Description=Alva Energi Relay
+After=multi-user.target
+
+[Service]
+Restart=always
+ExecStart=/usr/bin/python /home/pi/Desktop/geranting/[LOKASI SCRIPTNYA]
+
+[Install]
+WantedBy=multi-user.target
+------------------------------------------------
+
+command yg di bawah ini jalanin di terminal:
+
+sudo chmod 777 /lib/systemd/system/alvaenergi_relay.service
+sudo systemctl daemon-reload
+sudo systemctl enable alvaenergi_relay.service
+sudo systemctl start alvaenergi_relay.service
